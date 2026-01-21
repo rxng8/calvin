@@ -1,3 +1,3 @@
 [submodule "calvin_env"]
 	path = calvin_env
-	url = hhttps://github.com/rxng8/calvin_env
+	url = https://github.com/rxng8/calvin_env
